@@ -6,14 +6,6 @@ import java.util.Scanner;
 public class Main {
 
 
-
-    static void myObjectList()
-
-    {
-
-
-    }
-
     public static void main(String[] args)
     {
 
